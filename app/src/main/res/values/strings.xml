@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AmazonClone</string>
+    <string name="deliver_to">Deliver to Jayesh - Mumbai 400097</string>
+    <string name="dummy">hello</string>
 </resources>
